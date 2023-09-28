@@ -4,9 +4,10 @@ function viajar (destino) {
     } else if (destino === "Argentina"){
         console.log("gire a la DERECHA")
     } else {
-        console.log ("Nos PERDIMOS")
+        console.log ("Nos perdimos")
     }
 }
 
 
-viajar("Uruguay");
+viajar("Argentina");
+
